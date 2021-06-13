@@ -25,6 +25,5 @@ function Eight(firstName, lastName){
 }
     Eight( 'Elizabeth', "Pollard");
 
-    function willBuyDrink(isHotOutside, moneyInPocket){
-    if()
-}
+    function willBuyDrink(isHotOutside, moneyInPocket)
+    
